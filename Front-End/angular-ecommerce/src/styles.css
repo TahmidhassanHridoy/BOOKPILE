@@ -514,7 +514,7 @@ input.au-input.au-input-xl{
     background:#fff
 }
 .main-content.page-m{
-    padding:10% 15%!important
+    padding: 10% 30% 10% 5%
 }
 
 /* 
@@ -719,6 +719,7 @@ table.table.table-bordered th{
     font-weight:800;
     color:#0da8e4
 }
+
 .detail-section{
     margin-top:60px
 }
@@ -752,7 +753,7 @@ a.primary-btn{
 }
 a.primary-btn:hover{
     background:#0da8e4;
-    color:#fff
+    color:#0da8e4
 }
 
 .active-link {
